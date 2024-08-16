@@ -1,0 +1,86 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : TestGIT
+ major_version : 27
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Sitio
+    internal_properties : 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
+    configuration_id : 14571578286711604886
+    type : 2
+    generation_name : TestGIT.wdl
+    version : {}
+    language : 8
+    linux : true
+    64bits : true
+    new_features_help :
+     name : ""
+     internal_properties : BwAAAAcAAACb3XO8HScBtM6vTz6sox8zLCM1CQ7e7Wv02ne6VCSoWR5sc4N2DUvx/8a1NmPqxmCZPE0KiTsSEw==
+ elements :
+  identifier : 0x4298a2d10031cb96
+  elements :
+   -
+     name : PAGE_Inicio
+     identifier : 0x4298a3440ae98e93
+     internal_properties : BwAAAAcAAADaXQzBIVG0KNXzMjKKhaql9siB7PBcH3hLeV29T/MSZdmH2HDvNyt9/T4GxGKb2f3gYY6rXWDDbImgECJ6mqWycQblng==
+     physical_name : .\PAGE_Inicio.wwh
+     type : 65538
+     report :
+      es-ES : ES
+  other_elements : []
+  analysis : .\TestGIT.ana\TestGIT.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ wb_skin : 250 Phoenix
+ wb_color_palette : GreyNix
+ languages :
+  - es-ES
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_Inicio
+     parameters : []
+     title :
+      es-ES : Inicio
+     description :
+      es-ES : Inicio
+ url_rewriting :
+  internal_properties : BwAAAAcAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  type_code : 0
+  p_codes :
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Sitio
+     identifier : 0x4298a2d10032cb96
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : BwAAAAcAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+rad :
+ internal_properties : BwAAAAcAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : BwAAAAcAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : BwAAAAcAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
